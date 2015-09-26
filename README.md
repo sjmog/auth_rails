@@ -7,6 +7,7 @@ Comes with:
 - Rails
 - [RSpec-Rails](https://github.com/rspec/rspec-rails) for specs
 - [Capybara](https://github.com/jnicklas/capybara) for feature specs
+- [Factory Girl](https://github.com/thoughtbot/factory_girl) for fixtures
 - [Devise](https://github.com/plataformatec/devise) for authentication
 - [Postgres](http://www.postgresql.org/) for Development & Production databases
 

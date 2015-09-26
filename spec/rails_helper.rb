@@ -55,4 +55,6 @@ RSpec.configure do |config|
   config.before :suite do
     Warden.test_mode!
   end
+  # Include Factory Girl
+  config.include FactoryGirl::Syntax::Methods
 end
