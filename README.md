@@ -5,10 +5,10 @@ My personal starter template for **Rails 4.2** projects.
 Comes with:
 
 - Rails
-- RSpec for testing
-- Capybara for web interface testing
-- Devise for authentication
-- Postgres for Development & Production
+- [RSpec-Rails](https://github.com/rspec/rspec-rails) for specs
+- [Capybara](https://github.com/jnicklas/capybara) for feature specs
+- [Devise](https://github.com/plataformatec/devise) for authentication
+- [Postgres](http://www.postgresql.org/) for Development & Production databases
 
 ### Getting Started
 
