@@ -5,7 +5,8 @@ My personal starter template for **Rails 4.2** projects.
 Comes with:
 
 - Rails
-- Capybara for web testing
+- RSpec for testing
+- Capybara for web interface testing
 - Devise for authentication
 - Postgres for Development & Production
 
