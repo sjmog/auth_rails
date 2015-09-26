@@ -10,6 +10,7 @@ Comes with:
 - [Factory Girl](https://github.com/thoughtbot/factory_girl) for fixtures
 - [Devise](https://github.com/plataformatec/devise) for authentication
 - [Postgres](http://www.postgresql.org/) for Development & Production databases
+- [Foundation-Rails](https://github.com/zurb/foundation-rails) for UI prototyping
 
 ### Getting Started
 
